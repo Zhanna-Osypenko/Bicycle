@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  padding: 30px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-decoration:underline;
+  background: url('https://hips.hearstapps.com/hmg-prod/images/beginner-bikes-pedaling-0012-trevor-raab-1677004015.jpg?crop=0.980xw:0.895xh;0,0&resize=1200:*');
+  border: 5px solid #34495e;
+  border-radius: 20px;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.cycle-article div {
+  background-color: #34495e;
+  color: azure;
+  border-radius: 20px;
+  margin: 30px 0;
+  padding: 21px;
+}
